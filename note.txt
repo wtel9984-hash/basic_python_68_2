@@ -1,0 +1,18 @@
+cd
+ls
+ls -al
+pwd
+
+git clone https://github.com/fanghyun/basic_python_68_2.git
+
+git init
+git remote add origin https://github.com/fanghyun/basic_python_68_2.git
+
+git config --global user.name "your name" Thalatchanan
+git config --global user.email "your name"wtel9984@gmail.com
+
+git add .
+git commit -m "Message" คลิกขวา แล้ว Zip File
+git push origin main 
+
+git pull origin main 
