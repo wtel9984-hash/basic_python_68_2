@@ -3,7 +3,6 @@ ls
 ls -al
 pwd
 
-git clone https://github.com/fanghyun/basic_python_68_2.git
 
 git init
 git remote add origin https://github.com/fanghyun/basic_python_68_2.git
@@ -15,4 +14,6 @@ git add .
 git commit -m "Message" คลิกขวา แล้ว Zip File
 git push origin main 
 
-git pull origin main 
+git pull origin main
+ 
+git clone https://github.com/fanghyun/basic_python_68_2.git
